@@ -105,4 +105,7 @@ live scene with `player`, `loot`, `officer` and `score` on it.
 
 ## Licence
 
-No licence yet — all rights reserved for now. If you want to reuse this, open an issue and ask.
+[MIT](LICENSE) © 2026 P. Petkov — use it, change it, ship it, just keep the copyright notice.
+
+The character and art are original to this project, so there are no third-party asset terms to worry
+about. The only dependency is [Phaser 3](https://phaser.io), which is also MIT.
